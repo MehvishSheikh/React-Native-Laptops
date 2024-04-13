@@ -1,3 +1,7 @@
+![laptopdetails4](https://github.com/MehvishSheikh/React-Native-OnlineStore/assets/130210811/011d3221-9e01-4bd1-b3cb-ab40c80441e2)
+![laptopdetails3](https://github.com/MehvishSheikh/React-Native-OnlineStore/assets/130210811/a1040ac9-2184-43d0-9912-234600a303d9)
+![laptopdetails2](https://github.com/MehvishSheikh/React-Native-OnlineStore/assets/130210811/8ea455e4-6e6b-4345-b3ff-6c2cbe6a82b5)
+![laptopdetails1](https://github.com/MehvishSheikh/React-Native-OnlineStore/assets/130210811/6895af44-03e8-4db3-8fb2-e52614033992)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
